@@ -1,9 +1,10 @@
-<!--
+ 
 <h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Slok's World!
+  <br>
+  <img src="https://media.giphy.com/media/QxkjOwjqlYjNZiJSW9/giphy.gif" width="400">
 </h2>
--->
+
 
 <!--
 <p align="center">
@@ -136,4 +137,3 @@
 
 
 ![notslok's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=notslok&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
