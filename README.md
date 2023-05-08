@@ -2,7 +2,7 @@
 <h2 align="center">
   Welcome to Slok's World!
   <br>
-  <img src="https://media.giphy.com/media/QxkjOwjqlYjNZiJSW9/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/VM9S5IeIK5hFm/giphy.gif" width="250">
 </h2>
 
 
