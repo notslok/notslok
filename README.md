@@ -1,6 +1,8 @@
  
 <h2 align="center">
-  Welcome to Slok's World!
+ <samp> 
+ Welcome to Slok's World!
+ </samp>
   <br>
   <img src="https://media.giphy.com/media/VM9S5IeIK5hFm/giphy.gif" width="250">
 </h2>
