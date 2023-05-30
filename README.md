@@ -144,7 +144,7 @@
 
 <a> 
     <a href="https://github.com/notslok"><img alt="notslok's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=notslok&show_icons=true&count_private=true&hide_progress=jupyter%20notebook&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/notslok"><img alt="notslok's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=notslok&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/notslok"><img alt="notslok's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notslok&theme=tokyonight&exclude=Jupyter%20Notebook" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <!-- [![notslok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=notslok&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
